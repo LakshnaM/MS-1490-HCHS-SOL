@@ -3,36 +3,6 @@ Diabetes and Cancer Incidence among Adults in the Hispanic Community Health Stud
 Project Overview
 This project investigates the association between diabetes status and cancer incidence in Hispanic/Latino adults using data from the Hispanic Community Health Study/Study of Latinos (HCHS/SOL). The study examines cancer risk across various diabetes measures such as HbA1c levels, insulin resistance, and diabetes duration.
 
-Methods
-Assessment of Cancer Incidence
-Cancer diagnoses were obtained through state cancer registries, with 715 primary invasive cancers identified over a median follow-up of 10.97 years.
-
-Assessment of Diabetes
-Data Sources: Self-reports, clinical observations, and laboratory measures.
-Measures:
-Diabetes defined using ADA guidelines:
-HbA1c ≥6.5%, fasting plasma glucose ≥126 mg/dL, or 2-hour plasma glucose ≥200 mg/dL.
-Pre-diabetes: HbA1c 5.7%–6.4%, fasting plasma glucose 100–125 mg/dL.
-HOMA-IR calculated as:
-HOMA-IR
-=
-Fasting Glucose (mg/dL)
-×
-Fasting Insulin (mU/L)
-405
-HOMA-IR= 
-405
-Fasting Glucose (mg/dL)×Fasting Insulin (mU/L)
-​
- 
-Groups:
-Diabetes: ≤10 years, >10 years.
-HOMA-IR: Normal (≤1.9), Significant resistance (2.0–2.9), Elevated resistance (≥3.0).
-Covariates
-Demographics: Age, sex, education level, country of birth.
-Lifestyle: Physical activity (GPAQ), smoking history, alcohol use.
-Clinical: BMI (calculated from measured height and weight).
-
 
 Statistical Analysis
 Software: SAS 9.4.
