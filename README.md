@@ -1,4 +1,4 @@
-Diabetes and Cancer Incidence among Adults in the Hispanic Community Health Study/Study of Latinos (HCHS/SOL)
+##Diabetes and Cancer Incidence among Adults in the Hispanic Community Health Study/Study of Latinos (HCHS/SOL)
 
 Project Overview
 This project investigates the association between diabetes status and cancer incidence in Hispanic/Latino adults using data from the Hispanic Community Health Study/Study of Latinos (HCHS/SOL). The study examines cancer risk across various diabetes measures such as HbA1c levels, insulin resistance, and diabetes duration.
